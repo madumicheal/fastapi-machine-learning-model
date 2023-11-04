@@ -1,2 +1,1 @@
-# fastapi-machine-lerning-model
- 
+# fastapi-machine-learning-model
